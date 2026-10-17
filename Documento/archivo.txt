@@ -1,2 +1,23 @@
 
-Tesis ver 0.0.0.0 actividad
+Tesis ver 0.0.0.0 actividad 
+          0.      Etapa de entrega
+            0.    Veces revisado por el asesor
+              0.  Veces revidado por Juanin
+                0 Veces de actividad
+                  Actividad - Qué actividad se realiza en el momento
+
+* Guardar copia de versiones revisadas
+
+x - Capítulos
+x.x. Temas
+x.x.x. secciones
+
+Capítulo 1. Antecedentes
+Capítulo 2. Estado del arte
+Capítulo 3. Marco teórico
+Capítulo 4. Análisis del sistema
+Capítulo 5.Diseño
+Capítulo 6. Implementación 
+Capítulo 7. Escenario de pruebas
+Conclusiones
+Referencias
